@@ -2,12 +2,17 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation? To build a webpage that would aid in learnign the fundamentals of three important programming languages. 
-- Why did you build this project? To acquaint myself with the practical application of my theoretical knowledge.
-- What problem does it solve? It provides the most fundamental introduction to HTML, CSS & Javascript.  
-- What did you learn? I learnt how to  navigating through Github, using VS code. 
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+- What was your motivation? 
+To build a webpage that would aid in learnign the fundamentals of three important programming languages. 
+- Why did you build this project?
+ To acquaint myself with the practical application of my theoretical knowledge.
+- What problem does it solve? 
+It provides the most fundamental introduction to HTML, CSS & Javascript.  
+- What did you learn? 
+I learnt how to  navigating through Github, using VS code. 
+
 
 ## Installation
 N/A
